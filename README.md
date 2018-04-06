@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## openSyllabus
 
-You can use the [editor on GitHub](https://github.com/sik103/sik103.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can open the web syllabi of Okayama university directly with the class number with this web application. In other words, it simlify the access to the web syllabi.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Page link
 
-### Markdown
+[https://sik103.github.io/openSyllabus/](https://sik103.github.io/openSyllabus/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Usage
 
-```markdown
-Syntax highlighted code block
+Please type the class number that you want to read the syllabus in the form and press "open the syllabus". Then the syllabus page will be open.
 
-# Header 1
-## Header 2
-### Header 3
+You can also open English syllabi by moving the "English syllabus" page. If you want to move to English syllabus page, press "English syllabus" button on the right upside. 
 
-- Bulleted
-- List
+### Error Message
 
-1. Numbered
-2. List
+#### ValueError: Shozoku 
+This error means the first and second figure of the class number is incorrect. 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sik103/sik103.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### ValueError: Class number
+The class number is 6 characters. The input number is less than 6 characters. 
