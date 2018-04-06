@@ -1,8 +1,16 @@
+## My GitHub Pages
+
+This page is my GitHub Pages
+
+### Page Link
+[https://sik103.github.io/](https://sik103.github.io/)
+
+
 ## openSyllabus
 
 You can open the web syllabi of Okayama university directly with the class number with this web application. In other words, it simlify the access to the web syllabi.
 
-### Page link
+### Page Link
 
 [https://sik103.github.io/openSyllabus/](https://sik103.github.io/openSyllabus/)
 
