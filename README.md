@@ -21,4 +21,4 @@ You can open the web syllabus of Okayama university directly with the class numb
 ## Note
 
 ### How to install RASPBIAN LITE
-[How to install RASPBIAN LITE on Raspberry PI (Japanese)](rpi_lite_installation/rpi_lite_installation.md)
+[How to install RASPBIAN LITE on Raspberry PI (Japanese)](note/rpi_lite_installation/rpi_lite_installation.md)
