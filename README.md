@@ -3,7 +3,7 @@
 This page is my GitHub Pages
 
 ### Page Link
-[https://sik103.github.io/](https://sik103.github.io/)
+[https://dongsiku.github.io/](https://dongsiku.github.io/)
 
 ***
 ## Applications
@@ -12,9 +12,9 @@ This page is my GitHub Pages
 
 You can open the web syllabus of Okayama university directly with the class number with this web application. In other words, it simlify the access to the web syllabus.
 
-[Web application URL](https://sik103.github.io/openSyllabus/)
+[Web application URL](https://dongsiku.github.io/openSyllabus/)
 
-[Repository](https://github.com/sik103/openSyllabus)
+[Repository](https://github.com/dongsiku/openSyllabus)
 
 
 ***
